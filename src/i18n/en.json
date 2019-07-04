@@ -1,0 +1,34 @@
+{
+  "kg": "Kyrgyz",
+  "ru": "Russian",
+  "en": "English",
+  "test": {
+    "center": "Testing Center",
+    "for": {
+      "applicants": "To applicants",
+      "students": "To students",
+      "teachers": "To teachers",
+      "free": "Free"
+    }
+  },
+
+  "username": {
+    "placeholder": "Enter your username",
+    "label": "Username"
+  },
+  "password": {
+    "placeholder": "Enter your password",
+    "label": "Password"
+  },
+
+  "button": {
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "forward": "Forward",
+    "submit": "Submit",
+    "finish": "Finish"
+  },
+
+  "testMessage": "Hello World!!!"
+}
